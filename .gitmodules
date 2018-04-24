@@ -1,3 +1,6 @@
 [submodule "github.bibel/strong"]
 	path = github.bibel/strong
 	url = https://github.com/bibel/strong
+[submodule "github.eliranwong/BHS-Strong-no"]
+	path = github.eliranwong/BHS-Strong-no
+	url = https://github.com/eliranwong/BHS-Strong-no
